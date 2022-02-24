@@ -39,7 +39,7 @@ ammAuthority大部分情況都可以用example code, PayerPhrase貼自己錢包�
 - txhash #string
 
 ### example successful output
-![image](https://github.com/UniOasis/solana-transaction/blob/develop/%E6%88%AA%E5%9C%96%202022-01-20%20%E4%B8%8B%E5%8D%882.19.54.png)
+![image](https://github.com/ChunWang1998/raydium-tx/blob/main/%E6%88%AA%E5%9C%96%202022-01-20%20%E4%B8%8B%E5%8D%882.19.54.png)
 ### example code 
 ```js
 const { Connection, Keypair } = require('@solana/web3.js')
@@ -190,7 +190,7 @@ testSwap()
 - txhash #string
 
 ### example successful output
-![image](https://github.com/UniOasis/solana-transaction/blob/develop/%E6%88%AA%E5%9C%96%202022-01-20%20%E4%B8%8B%E5%8D%882.19.54.png)
+![image](https://github.com/ChunWang1998/raydium-tx/blob/main/%E6%88%AA%E5%9C%96%202022-01-20%20%E4%B8%8B%E5%8D%882.19.54.png)
 
 ### example code 
 ```js
@@ -284,7 +284,7 @@ testHarvest()
 - txhash #string
 
 ### example successful output
-![image](https://github.com/UniOasis/solana-transaction/blob/develop/%E6%88%AA%E5%9C%96%202022-01-20%20%E4%B8%8B%E5%8D%882.19.54.png)
+![image](https://github.com/ChunWang1998/raydium-tx/blob/main/%E6%88%AA%E5%9C%96%202022-01-20%20%E4%B8%8B%E5%8D%882.19.54.png)
 
 ### example code 
 ```js
